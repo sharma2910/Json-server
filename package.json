@@ -1,0 +1,14 @@
+{
+  "name": "json_server_dummey",
+  "version": "1.0.0",
+  "description": "JSON SERVER",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darshit Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
